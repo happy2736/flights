@@ -5353,7 +5353,7 @@
   |247.91|3|OTP > PMI/Palma de Mallorca/ESP|2025-08-17 10:35|152.52|PMI/Palma de Mallorca/ESP > OTP|2025-08-21 06:00|95.39|
   |251.67|2|OTP > PMI/Palma de Mallorca/ESP|2025-07-03 10:30|141.28|PMI/Palma de Mallorca/ESP > OTP|2025-07-06 06:05|110.39|
   |252.92|3|OTP > PMI/Palma de Mallorca/ESP|2025-07-06 10:35|107.86|PMI/Palma de Mallorca/ESP > OTP|2025-07-10 06:00|145.06|
-  |257.57|2|OTP > PMI/Palma de Mallorca/ESP|2025-07-10 10:30|132.36|PMI/Palma de Mallorca/ESP > OTP|2025-07-13 06:05|125.21|
+  |257.57|2|OTP > PMI/Palma de Mallorca/ESP|2025-07-10 10:30|132.36|PMI/Palma de Mallorca/ESP > OTP|  2025-07-13 06:05|125.21|
   |260.3|2|OTP > PMI/Palma de Mallorca/ESP|2025-06-12 10:30|172.28|PMI/Palma de Mallorca/ESP > OTP|2025-06-15 06:05|88.02|
   |262.31|3|OTP > PMI/Palma de Mallorca/ESP|2025-06-01 10:35|211.02|PMI/Palma de Mallorca/ESP > OTP|2025-06-05 06:00|51.29|
   |265.32|2|OTP > PMI/Palma de Mallorca/ESP|2025-06-26 10:30|123.33|PMI/Palma de Mallorca/ESP > OTP|2025-06-29 06:05|141.99|
